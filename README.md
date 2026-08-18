@@ -1,2 +1,3 @@
 # KalaKartta-public
-KalaKartan jakelupaketit
+
+Tässä repossa jaetaan ainoastaan KalaKartan apk-paketteja.
